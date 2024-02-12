@@ -2,5 +2,5 @@
 print ("Hello, world!")
 
 name = "Lovro"
-#name = "Olle"
+#name = "Lovro"
 print ("Hello %s" % name)
